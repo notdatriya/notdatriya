@@ -6,7 +6,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently exploring **Deep Learning and Computer Vision**
 
 - 👯 I’m looking to collaborate on **Web based projects**
 
